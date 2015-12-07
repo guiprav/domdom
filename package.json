@@ -1,0 +1,14 @@
+{
+  "name": "domdom",
+  "version": "1.0.0",
+  "homepage": "https://github.com/n2liquid/domdom#readme",
+  "author": "Guilherme Prá Vieira (super.driver.512@gmail.com)",
+  "license": "AGPL-3.0+",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n2liquid/domdom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n2liquid/domdom/issues"
+  }
+}
